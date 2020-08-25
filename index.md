@@ -22,4 +22,5 @@ Projects are listed in order of priority, or due date.  Italicized projects indi
 ### Contact
 
 **Email:** hanguyen@vt.edu or hnguyen3560@gmail.com
+
 **LinkedIn:** [URL](https://www.linkedin.com/in/hn-3560/)
