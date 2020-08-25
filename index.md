@@ -8,13 +8,17 @@ In my free time, I enjoy building Magic the Gathering (MtG) decks and drawing.
 
 Additional details about my previous experiences and education can be viewed on [LinkedIn](https://www.linkedin.com/in/hn-3560/).
 
-### Upcoming/Ongoing Projects
+### Upcoming/Ongoing Project(s)
 
 - GitPage Setup
 - HTML Resume
 - _Homebrew Campgain Helper_
 
 Projects are listed in order of priority, or due date.  Italicized projects indicate personal projects.
+
+## Completed Project(s)
+
+- [Bookshelf Service](https://github.com/HannahN-P/Bookshelf-Project)
 
 ### Contact
 
