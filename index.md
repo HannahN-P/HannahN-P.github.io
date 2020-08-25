@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Hannah's GitPage
 
-You can use the [editor on GitHub](https://github.com/HannahN-P/HannahN-P.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a senior at Virginia Tech, studying under the Computer Science major.  Due to past internships, I have experience with various testing methods and both independent and team-based full-cycle development.  After graduation, I hope to still be involved in research and development; my interests are cybersecurity and data structures.
 
-### Markdown
+In my free time, I enjoy building Magic the Gathering (MtG) decks and drawing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Additional details about my previous experiences and education can be viewed on [LinkedIn](https://www.linkedin.com/in/hn-3560/).
 
-```markdown
-Syntax highlighted code block
+### Upcoming/Ongoing Projects
 
-# Header 1
-## Header 2
-### Header 3
+- GitPage Setup
+- HTML Resume
+- _Homebrew Campgain Helper_
 
-- Bulleted
-- List
+Projects are listed in order of priority, or due date.  Italicized projects indicate personal projects.
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HannahN-P/HannahN-P.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Email:** hanguyen@vt.edu or hnguyen3560@gmail.com
+**LinkedIn:** [URL](https://www.linkedin.com/in/hn-3560/)
