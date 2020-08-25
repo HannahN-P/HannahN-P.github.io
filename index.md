@@ -17,7 +17,7 @@ _Homebrew Campgain Helper_ | N/A | N/A
 
 Projects are listed in order of priority, or due date.  Italicized projects indicate personal projects.
 
-## Completed Project(s)
+### Completed Project(s)
 
 - [Bookshelf Service](https://github.com/HannahN-P/Bookshelf-Project)
 
