@@ -1,5 +1,4 @@
 ## Welcome to Hannah's GitPage!
-![GitHub Logo](https://user-images.githubusercontent.com/37476370/91200474-37f97180-e6cd-11ea-9f1a-bc2a36d6f936.png)
 ### About Me
 
 I'm a senior at Virginia Tech, studying under the Computer Science major.  With past internships, I have experience with several testing methods and both independent and team-based full-cycle development.  After graduation, I hope to get an occupation involved in research and development; my interests are cybersecurity and data structures.
@@ -10,9 +9,11 @@ Additional details about my previous experiences and education can be viewed on 
 
 ### Upcoming/Ongoing Project(s)
 
-- GitPage Setup
-- HTML Resume
-- _Homebrew Campgain Helper_
+Project Name | Due Date | Last Commit
+------------ | ------------- | -------------
+GitPage Setup | August 28 | August 25
+HTML Resume | September 4 | N/A
+_Homebrew Campgain Helper_ | N/A | N/A
 
 Projects are listed in order of priority, or due date.  Italicized projects indicate personal projects.
 
