@@ -1,4 +1,5 @@
 ## Welcome to Hannah's GitPage!
+![GitHub Logo](https://user-images.githubusercontent.com/37476370/91200474-37f97180-e6cd-11ea-9f1a-bc2a36d6f936.png)
 ### About Me
 
 I'm a senior at Virginia Tech, studying under the Computer Science major.  With past internships, I have experience with several testing methods and both independent and team-based full-cycle development.  After graduation, I hope to get an occupation involved in research and development; my interests are cybersecurity and data structures.
